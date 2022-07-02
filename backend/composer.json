@@ -1,8 +1,8 @@
 {
-    "name": "psgganesh/bookish-adventure",
+    "name": "psgganesh/journal",
     "type": "project",
-    "description": "Backend API for the bookish-adventure application.",
-    "keywords": ["framework", "laravel", "bookish-adventure", "api", "backend"],
+    "description": "Backend API for the journal application.",
+    "keywords": ["framework", "laravel", "journal", "api", "backend"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
